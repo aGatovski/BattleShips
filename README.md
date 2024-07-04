@@ -1,2 +1,2 @@
 # BattleShips
-Final course - Introduction to programming project at Sofia University
+Final Introduction to programming course project at Sofia University
